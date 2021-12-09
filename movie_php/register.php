@@ -46,7 +46,7 @@ label {
             </form>
             <br><br>
             <p>
-                已经有账号了？<a href="./register.php">登录</a>
+                已经有账号了？<a href="./login.php">登录</a>
             </p>
             <br><br><br>
             <p align="right">
